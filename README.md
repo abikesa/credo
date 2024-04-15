@@ -121,49 +121,59 @@ In connecting these musical concepts to societal evolution, you’ve painted a p
 
 # Christian Nationalism
 
-```bash
-I belive in rain drops falling to give little flowers life
-I belive the sun shines brightly to show off beautiful sights
-I belive in Martin Luther and for freedon he did fight
-I believe that he was chosen to try and change the wrong to right
-I believe man was made for woman for the two to multiply
-I believe in Mary's baby
-I believe in jesus christ
-I believe in Sunday morning
-I believe in after life
-I believe that jesus really gave the blind man back his sight
-I believe in Bible stories, to their truth I have no doubt
-I believe that little David took a lion out
-I believe in living holy, seperation from the rest
-I can testify that I believe in jesus christ
-I believe in Jesus
-I believe in God
-I believe in Mary's baby
-I believe in God
-I believe in Calvary
-I believe in the cross
-I believe that's when and where my Savior paid the cost
-I believe He still works wonders, He's a God of miracles
-I believe if you confess, He would save your sin sick soul
-'Cause I know Him as a healer, gave my brother back his life
-And He told him to live old to be a witness and a light
-I believe real soon He's coming in all His glory and His might
-It would surely be a shame not to believe in Jesus Christ
-I believe in Jesus
-I believe in God
-I believe in Mary's baby
-I believe in God
-I believe in Jesus Christ
-I believe
-Yes, I believe
-I believe
-Do you believe?
-I believe in Jesus Christ
-I believe in Jesus Christ
-Source: Musixmatch
-Songwriters: Michael Wright / Angelique Winans / Debra Winans
-I Believe lyrics © Emi Blackwood Music Inc., Benny's Music
+To clarify the metrical structure of the poem-credo "I Believe", by Angie & Debbie Winans, in a markdown or .txt format, you can break down each line to highlight the `anapestic tetrameter` pattern. Here’s how you might present the poem to emphasize its metrical rhythm:
+
 ```
+I believe in rain drops falling to give little flowers life (u u / u u / u u / u u /)
+I believe the sun shines brightly to show off beautiful sights (u u / u u / u u / u u /)
+I believe in Martin Luther and for freedom he did fight (u u / u u / u u / u u /)
+I believe that he was chosen to try and change the wrong to right (u u / u u / u u / u u /)
+
+I believe man was made for woman for the two to multiply (u u / u u / u u / u u /)
+I believe in Mary's baby (u u / u u /)
+I believe in Jesus Christ (u u / u u /)
+I believe in Sunday morning (u u / u u /)
+I believe in after life (u u / u u /)
+
+I believe that Jesus really gave the blind man back his sight (u u / u u / u u / u u /)
+I believe in Bible stories, to their truth I have no doubt (u u / u u / u u / u u /)
+I believe that little David took a lion out (u u / u u / u u /)
+I believe in living holy, separation from the rest (u u / u u / u u / u u /)
+
+I can testify that I believe in Jesus Christ (u u / u u / u u / u u /)
+I believe in Jesus (u u / u u /)
+I believe in God (u u / u u /)
+I believe in Mary's baby (u u / u u /)
+I believe in God (u u / u u /)
+
+I believe in Calvary (u u / u u /)
+I believe in the cross (u u / u u /)
+I believe that's when and where my Savior paid the cost (u u / u u / u u / u u /)
+I believe He still works wonders, He's a God of miracles (u u / u u / u u / u u /)
+
+I believe if you confess, He would save your sin sick soul (u u / u u / u u / u u /)
+'Cause I know Him as a healer, gave my brother back his life (u u / u u / u u / u u /)
+And He told him to live old to be a witness and a light (u u / u u / u u / u u /)
+I believe real soon He's coming in all His glory and His might (u u / u u / u u / u u /)
+
+It would surely be a shame not to believe in Jesus Christ (u u / u u / u u / u u /)
+I believe in Jesus (u u / u u /)
+I believe in God (u u / u u /)
+I believe in Mary's baby (u u / u u /)
+I believe in God (u u / u u /)
+
+I believe in Jesus Christ (u u / u u /)
+I believe (u u /)
+Yes, I believe (u u / u u /)
+I believe (u u /)
+Do you believe? (u u / u u /)
+
+I believe in Jesus Christ (u u / u u /)
+I believe in Jesus Christ (u u / u u /)
+```
+
+In the above presentation, "u" represents an unstressed syllable and "/" a stressed syllable. The poem's structure and rhythm are thus visually emphasized, allowing for a clearer understanding of its metrical form.
+
 # America
 
 1. Jews broke away from pretty much all of human history and decided there was only one true God 
