@@ -170,4 +170,12 @@ I Believe lyrics © Emi Blackwood Music Inc., Benny's Music
 2. Catholics broke away from Jews by declaring one incarnation of that God as a Jew, Jesus of Nazareth 
 3. Lutherans and Anglicans broke away from Catholics, recognizing exploitative tendencies of the clergy upon the laity; wherein they sold plots of land in heaven in exchange for money 
 4. So many variants have since emerged from the Anglican tradition, especially in the United States, courtesy of the Anglo connection of its cultural roots 
-5. But it’s the evangelicals who embody the spirit of capitalism, growth, and dominance. This groups reaction to a loss in dominance,’most prominent since the 1960s leaves a particular mark on 21st century America 
+5. But it’s the evangelicals who embody the spirit of capitalism, growth, and dominance. This groups reaction to a loss in dominance,’most prominent since the 1960s leaves a particular mark on 21st century America
+
+# GPT-4
+
+The poem "I Believe" by Michael Wright, Angelique Winans, and Debra Winans, employs a consistent and straightforward poetic meter throughout, making it rhythmically engaging. The dominant meter here is `anapestic tetrameter`, a rhythmic pattern characterized by four anapests (two unstressed syllables followed by a stressed syllable) per line. This pattern gives the poem a flowing, almost musical quality, which fits well with its lyrical and repetitive structure, enhancing its devotional theme.
+
+Each stanza generally maintains this meter, contributing to a melodious and uplifting feel that complements the spiritual affirmations expressed in the text. The regular rhythm also aids in memorability and recitability, aligning with the oral tradition often associated with religious and inspirational poetry.
+
+The consistent meter, coupled with the repetition of key phrases like "I believe," works effectively to emphasize the poem's central themes of faith and conviction. This technique not only reinforces the message but also resonates emotionally with the audience, drawing them into a shared space of belief and affirmation.
