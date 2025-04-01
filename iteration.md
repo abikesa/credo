@@ -1,3 +1,0 @@
-- Religion don't iterate, that's new denominations
-- But art, science and technology?
-- Their credo is [iterative deployment](https://www.youtube.com/watch?v=GLKoDkbS1Cg)
